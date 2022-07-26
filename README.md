@@ -2,7 +2,7 @@
 
 ```
 Uncaught TypeError: (0 , _react.styled) is not a function
-    at ./node_modules/@groundgametexas/react/lib-esm/Box.js (Box.js:13:1)
+    at ./node_modules/<MY-LIB>/lib-esm/Box.js (Box.js:13:1)
     at options.factory (react refresh:6:1)
     at __webpack_require__ (bootstrap:24:1)
     at fn (hot module replacement:62:1)
